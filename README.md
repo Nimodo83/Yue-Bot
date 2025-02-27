@@ -10,15 +10,15 @@
   </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪
+Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰𓆪
 
 <a href="http://wa.me/5213318360934" target="blank"><img src="https://img.shields.io/badge/Cuervo-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅𝐂𓆰ࣩ֟፝𓆪
+Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅𝐂𓆰𓆪
 <a href="http://wa.me/5212722801554" target="blank"><img src="https://img.shields.io/badge/Cuervo-Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 ![YueBot](https://files.catbox.moe/4d5ba7.jpg)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### **`✐ Información importante`**
 
@@ -43,7 +43,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### **`✐ Contáctanos`**
 
@@ -60,7 +60,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### ✐ HostingPy
 <a href="https://dahs.hostingpy.shop"><img src="https://files.catbox.moe/y72e4j.jpg" height="125px"></a>
@@ -81,7 +81,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### ✐ TK-Host
 <a href="https://dash.tk-joanhost.com/home"><img src="https://files.catbox.moe/lmgc5p.jpg" height="125px"></a>
@@ -102,7 +102,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 ### ✐ SKY ULTRA PLUS 
@@ -128,7 +128,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 #### **`✐ Instalación por cloudshell`**
 
@@ -162,17 +162,17 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 [![🜸 Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=OfcKing/YaemoriBot-MD&ref=main&geo=UsEast)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 #### **`✐ ACTIVAR EN KOYEB`**
 [![🜸 Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OfcKing/YaemoriBot-MD&branch=master&name=yaemoribot-md)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 #### **`✐ ACTIVAR EN RENDER`**
 [![🜸 Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FOfcKing%2FYaemoriBot-MD)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ##### **`✐ PARA USUARIOS DE WINDOWS/VPS/RDP`**
 
@@ -230,7 +230,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## **`✐ Enlaces útiles`**
 
@@ -241,7 +241,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 |✐ WhatsApp |🜸 Canal Test |✰ [¡Click aquí!](https://whatsapp.com/channel/0029Vatvv7w2P59uIo6EHK3d) |
 |✐ WhatsApp |🜸 Asistente |✰ [¡Click aquí!](wa.me/5212722801554) |
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### **`✰ COLABORADORES`**
 <a href="https://github.com/Nimodo83/Yue-Bot/graphs/contributors">
