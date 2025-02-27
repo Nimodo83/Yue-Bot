@@ -4,7 +4,12 @@
 <p align="center">🜸 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+Yue-Bot;©+Powered+By+ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=©+Yue-Bot;©+Powered+By+ઈ𓅇CuervoOFC𓆰ࣩ֟፝𓆪" alt="Typing SVG" /></a>
+  </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪
 
 <a href="http://wa.me/5213318360934" target="blank"><img src="https://img.shields.io/badge/Cuervo-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
