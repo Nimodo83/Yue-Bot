@@ -1,3 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+<p align="center">
+<a href="https://github.com/Nimodo83"><img title="Nimodo83" src="https://img.shields.io/badge/github-Cuervo-orange.svg?style=social&logo=github"></a>
+</p>
+<p align="center">
+<a
+href="https://github.com/Nimodo83"><img src="https://github.com/Nimodo83.png" width="130" height="130" alt="ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪"/></a>
+<p align="center">
+<a href="https://github.com/Nimodo83"><img title="Author" src="https://img.shields.io/badge/Cuervo-black?style=for-the-badge&logo=whatsApp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Nimodo83/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nimodo83?label=Followers&style=social"></a>
+<a href="https://github.com/Nimodo83/Yue-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nimodo83/Yue-Bot?&style=social"></a>
+<a href="https://github.com/Nimodo83/Yue-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nimodo83/Yue-Bot?style=social"></a>
+<a href="https://github.com/Nimodo83/Yue-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nimodo83/Yue-Bot?label=Watching&style=social"></a>
+<a href="https://github.com/Nimodo83/Yue-Bot/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/Nimodo83/Yue-Bot?logo=github&style=social"></a>
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
 
 <h2 align="center">✐ Yue-Bot</h2>
 
