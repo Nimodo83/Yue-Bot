@@ -80,6 +80,22 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+### ✐ Cuervo-Host 
+<a href="https://dash.host-cuervo.shop"><img src="https://i.ibb.co/HfvW3sn1/icon.jpg" height="125px"></a>
+
+<details>
+ <summary><b>✰ Enlaces Importantes</b></summary>
+
+- **✐ Dashboard:** [`🜸 Aquí`](https://dash.host-cuervo.shop)
+- **✐ Panel:** [`🜸 Aquí`](https://panel.hostingpy.shop)
+- **✐ Canal de WhatsApp:** [`🜸 Aquí`](https://whatsapp.com/channel/0029VarQy9n2kNFzVAKReQ2V)
+- **✐ Contacto(s):** 
+[`🜸 CuervoOFC`](https://wa.me/5222722801554)
+
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ### ✐ HostingPy
 <a href="https://dahs.hostingpy.shop"><img src="https://files.catbox.moe/y72e4j.jpg" height="125px"></a>
 
