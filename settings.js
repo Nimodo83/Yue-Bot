@@ -26,10 +26,10 @@ global.confirmCode = ''
 global.owner = [
   ['5213339577315', 'Propietario 👑', true],
   ['5213318360934', 'Owner ✨️', true],
-  ['5493876639332'],
-  ['5218715746374'],
-  ['573237649689'],
-  ['5351524614']
+  ['51953463385'],
+  ['51953463385'],
+  ['51953463385'],
+  ['51953463385']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -39,7 +39,7 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.creadorbot = '5213318360934'
+global.creadorbot = '51953463385'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -47,16 +47,16 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.5'
 global.vs = '2.0.7'
 global.vsJB = '5.0'
-global.nameqr = 'Yue-Bot'
-global.namebot = 'YueBot'
+global.nameqr = 'GOJO-Bot'
+global.namebot = 'JOGOBOT'
 global.sessions = 'YueSession'
 global.jadi = 'YueJadiBot'
 global.yueJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ Yue-Bot ✰⪜'
-global.botname = 'Yue-Bot'
+global.packname = '⪛✰ GOJO-BOT ✰⪜'
+global.botname = 'GOJO-BOT'
 global.wm = 'Yue-Bot'
 global.author = 'Made By Cuervo-Team-Supreme'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ: Yue-Bot'
@@ -68,12 +68,12 @@ global.welcom3 = 'Edita Con !seteliminada'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.banner = 'https://files.catbox.moe/8b91ry.jpg'
-global.catalogo = 'https://files.catbox.moe/4d5ba7.jpg'
+global.banner = 'https://files.catbox.moe/7jxbww.jpg'
+global.catalogo = 'https://files.catbox.moe/8tkwj2.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.enlace = 'https://whatsapp.com/channel/0029Vatvv7w2P59uIo6EHK3d'
+global.enlace = 'https://chat.whatsapp.com/EC3WdZkhXsB6zy7NwEA0cg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
